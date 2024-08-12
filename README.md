@@ -24,7 +24,7 @@ Cryptocurrency is a digital or virtual form of currency that uses cryptography f
 4. **Security**: Strong security measures can build trust and increase value.
 5. **Market Trends**: External factors such as regulations and market sentiment also play a role in value.
 
-# Crawl the codes
+## Crawl the codes
 
 1. **contracts/**: Contains Solidity smart contracts defining the cryptocurrency.
 2. **migrations/**: Holds migration scripts to deploy the contracts to Ethereum.
