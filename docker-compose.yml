@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  ganache:
+    build: .
+    ports:
+      - "8545:8545"
+    networks:
+      - truffle-network
+
+  truffle:
+    build: .
+    volumes:
+      - .:/usr/src/app
+    command: truffle compile && truffle migrate
+    networks:
+      - truffle-network
+
+networks:
+  truffle-network:
