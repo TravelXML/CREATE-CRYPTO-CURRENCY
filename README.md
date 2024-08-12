@@ -1,7 +1,7 @@
 # Create Your Own Cryptocurrency
 
 We’re going to create and deploy a new cryptocurrency on the Ethereum blockchain using Solidity, Truffle, and Docker. This guide will help you, whether you're new or experienced, to successfully set up and manage your cryptocurrency. I’ve named this crypto AAyu after my son, Aayan.
-![crypto_blog_post_image](https://github.com/user-attachments/assets/0fcc6aa1-86fa-403d-ab71-5cacf1b1f471)
+![crypto_blog_post_image](https://github.com/TravelXML/CREATE-CRYPTO-CURRENCY/blob/master/1.png)
 
 
 ## What is Cryptocurrency?
