@@ -58,6 +58,9 @@ Run the Docker container with the following command:
 ```bash
 docker run -it -p 8545:8545 aayu-token-env
 ```
+![image](https://github.com/user-attachments/assets/1f75a53e-102e-418b-98bc-2345406a27c0)
+![image](https://github.com/user-attachments/assets/89cd2d25-2864-4d73-8a83-1ee7b939d4eb)
+
 
 #### Step 4: Access the Docker Container
 
@@ -253,4 +256,4 @@ Once deployed, you can interact with your token as described earlier using the T
 
 ---
 
-By following this comprehensive guide, you can successfully create, deploy, and manage your AAyuToken cryptocurrency on the Ethereum blockchain. Whether you are experimenting on the Rinkeby test network or launching on the Ethereum mainnet, this guide provides all the necessary steps to bring your cryptocurrency project to life.
+By following this you can successfully create, deploy, and manage your AAyuToken cryptocurrency on the Ethereum blockchain. Whether you are experimenting on the Rinkeby test network or launching on the Ethereum mainnet, this guide provides all the necessary steps to bring your cryptocurrency project to life. Happy Coding!
