@@ -24,6 +24,18 @@ Cryptocurrency is a digital or virtual form of currency that uses cryptography f
 4. **Security**: Strong security measures can build trust and increase value.
 5. **Market Trends**: External factors such as regulations and market sentiment also play a role in value.
 
+# Crawl the codes
+
+1. **contracts/**: Contains Solidity smart contracts defining the cryptocurrency.
+2. **migrations/**: Holds migration scripts to deploy the contracts to Ethereum.
+3. **test/**: Includes test scripts to ensure the contracts function correctly.
+4. **Dockerfile**: Defines the environment setup for the project using Docker.
+5. **docker-compose.yml**: Manages multi-container Docker applications.
+6. **truffle-config.js**: Configures the Truffle framework for different networks.
+
+These files collectively allow you to create, deploy, and test a cryptocurrency on Ethereum. 
+
+
 ## Step-by-Step Setup Guide
 
 ### Prerequisites
